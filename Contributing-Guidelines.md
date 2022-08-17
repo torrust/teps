@@ -18,7 +18,7 @@ Copyediting and proofreading Draft and Active TEPs is welcome (subject to review
 
 If you're still unsure, we encourage you to reach out first before opening a PR here. For example, you could contact the TEP author(s), propose your idea in a discussion venue appropriate to the TEP (such as Typing-SIG for static typing, or Packaging Discourse for packaging), or open an issue.
 
-## Commit messages and PR titlesConduct
+## Commit messages and PR titles
 
 When adding or modifying a TEP, please include the TEP number in the commit summary and pull request title. For example, "TEP NNN: summary of changes".
 
