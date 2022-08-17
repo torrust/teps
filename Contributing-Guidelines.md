@@ -18,7 +18,7 @@ Copyediting and proofreading Draft and Active TEPs is welcome (subject to review
 
 If you're still unsure, we encourage you to reach out first before opening a PR here. For example, you could contact the TEP author(s), propose your idea in a discussion venue appropriate to the TEP (such as Typing-SIG for static typing, or Packaging Discourse for packaging), or open an issue.
 
-## Commit messages and PR titles
+## Commit messages and PR titlesConduct
 
 When adding or modifying a TEP, please include the TEP number in the commit summary and pull request title. For example, "TEP NNN: summary of changes".
 
@@ -28,7 +28,7 @@ Likewise, prefix rendering infrastructure changes with Infra:, linting alteratio
 
 Before you hit "Create pull request", please take a moment to ensure that this project can legally accept your contribution by verifying you have signed the [Contributor License Agreement](https://github.com/torrust/.github/blob/main/info/licensing/contributor_agreement_v01.md).
 
-If you haven't signed the CLA before, please follow the steps outlined in the CPython devguide to do so.
+If you haven't signed the CLA before, please follow the steps outlined in the mentioned document.
 
 ## Code of Conduct
 
