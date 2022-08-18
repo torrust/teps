@@ -4,6 +4,7 @@
 |---:|:---:|
 |__Author:__| list of authors' real names and optionally, email addresses|
 |__Status:__| Draft / Active / Accepted / Deferred / Rejected / Withdrawn / Final / Superseded|
+|Discussion-To:| url Link to the discussion|
 |__Type:__| Standards Track | Process|
 |__Created:__| date created on, in yyyy-mm-dd format|
 |__Resolution:__| url (required for Accepted / Rejected / Withdrawn)|
@@ -35,6 +36,10 @@ If there were any alternative solutions to solving the same problem, they should
 This section may just be a bullet list including links to any discussions regarding the TEP:
 
 This includes links to mailing list threads or relevant GitHub issues.
+
+## Auxiliary Files
+
+List of files for support and clarification of the TEP. List files with their relative links.
 
 ## References and Footnotes
 
