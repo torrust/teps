@@ -1,20 +1,20 @@
 ![Torrust Organization Header Image](img/2022_06_27-Torrust_Org_Title.png)
 
-# Torrust Enhancement Proposals
+_TEPs_, or _Torrust Enhancement Proposals_, are documents that for through a formal review process as they contain changes that are more significant to our project. This process allows us to ensure that such a change is properly considered and is implemented in a coordinated way.
 
-Welcome!
-This repository contains Torrust's enhancement proposals.
+### Contributing:
 
-## What are TEPS and their purpose?
+1. Familiarize yourself with our [Contributing Guidelines](/Contributing-Guidelines.md).
 
-TEPS, stands for Torrust Enhancement Proposals. If you have an idea for a new feature, a suggestion for improvement, think that the project could benefit from something, go ahead and tell us.
+2. Read [TEP: 1](/TEP-0001.md), our TEP Purpose and Guidelines document.
 
-We have created a TEP-Template for anyone to fill out and submit as
+If you are wishing to make a new TEP, please consider our TEP Template: [TEP 0](/TEP-0000.md).
 
-Torrust Enhancement Proposals
+---
 
-The PEPs in this repo are published automatically on the web at https://peps.python.org/. To learn more about the purpose of PEPs and how to go about writing one, please start reading at [TEP-0001](/TEP-0001.md). Note that the [TEP-Index](/TEP-Index.md) is updated with each new TEP.
+# Torrust Enhancement Proposals Index
 
-## Contributing to TEPs
-
-See the [Contributing Guidelines](/Contributing-Guidelines.md).
+|Number|Type|Title|Owner|Type|Status|
+|:-:|:-|:-|:-|:-|:-|
+[0](/TEP-0000.md)||TEP Template|Constantin Bosse|Process|Active|
+[1](/TEP-0001.md)||TEP Purpose and Guidelines|Constantin Bosse|Process|Active|

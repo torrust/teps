@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-To learn more about the purpose of TEPs and how to go about writing one, please start reading at TEP 1. Also, make sure to check the [README](/README.md) for information on how to render the TEPs in this repository.
+To learn more about the purpose of TEPs and how to go about writing one, please start reading at [0001: Purpose and Guidelines](/TEP-0001.md). Also, make sure to check our [readme](/README.md) for information on how to render the TEPs in this repository.
 
 Thanks again for your contributions, and we look forward to reviewing them!
 
@@ -12,7 +12,7 @@ Prior to submitting a pull request here with your draft TEP, see TEP 1 for some 
 
 In general, most non-Draft/Active TEPs are considered to be historical documents rather than living specifications or documentation. Major changes to their core content usually require a new TEP, while smaller modifications may or may not be appropriate, depending on the TEP's status.
 
-See TEP Maintenance and Changing Existing TEPs in TEP 1 for more.
+See [0001 - TEP Maintenance](/TEP-0001.md#tep-maintenance) for more details.
 
 Copyediting and proofreading Draft and Active TEPs is welcome (subject to review by the TEP author), and can be done via pull request to this repo. Substantive content changes should first be proposed on TEP discussion threads. We do advise against PRs that simply mass-correct minor typos on older TEPs which don't significantly impair meaning and understanding.
 
