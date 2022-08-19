@@ -1,4 +1,4 @@
-![Torrust Organization Header Image](img/2022_06_27-Torrust_Org_Title.png)
+![Torrust Enhancement Proposals Header Image](img/2022_08_19-Torrust_Enhancement_Proposals.png)
 
 _TEPs_, or _Torrust Enhancement Proposals_, are documents that for through a formal review process as they contain changes that are more significant to our project. This process allows us to ensure that such a change is properly considered and is implemented in a coordinated way.
 
@@ -11,8 +11,7 @@ _TEPs_, or _Torrust Enhancement Proposals_, are documents that for through a for
 If you are wishing to make a new TEP, please consider our TEP Template: [TEP 0](/TEP-0000.md).
 
 ---
-
-# Torrust Enhancement Proposals Index
+### Torrust Enhancement Proposal Index:
 
 |Number|Type|Title|Owner|Type|Status|
 |:-:|:-|:-|:-|:-|:-|
