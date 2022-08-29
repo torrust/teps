@@ -17,3 +17,4 @@ If you are wishing to make a new TEP, please consider our TEP Template: [TEP 0](
 |:-:|:-|:-|:-|:-|:-|
 [0](/TEP-0000.md)||TEP Template|Constantin Bosse|Process|Active|
 [1](/TEP-0001.md)||TEP Purpose and Guidelines|Constantin Bosse|Process|Active|
+[12](/TEP-0012.md)|Index|Asymmetric Key Client Authentication|Cameron Garnham|Standards Track|Draft|
